@@ -17,7 +17,7 @@ const labelsFirst = [
   "HTML5",
   "CSS3",
   "SASS",
-  "Flask",
+  "Angular",
   "Node",
   "SQL",
   "PostgreSQL",
@@ -29,11 +29,8 @@ const labelsSecond = [
   "GitHub Actions",
   "Docker",
   "AWS",
-  "Azure",
   "Linux",
-  "Snowflake",
-  "Pandas",
-  "Selenium",
+  "Jenkins",
 ];
 
 const labelsThird = [
@@ -65,7 +62,7 @@ function Expertise() {
             <h3>Full Stack Web Development</h3>
             <p>
               I have built a diverse array of web applications from scratch
-              using modern technologies such as React and Flask. I have a strong
+              using modern technologies such as React, Angular and Node. I have a strong
               proficiency in the SDLC process and frontend + backend
               development.
             </p>
@@ -116,16 +113,10 @@ function Expertise() {
             <p>
               Accelerate clinical interoperability with ready-to-deploy FHIR
               integrations. I bring hands-on experience building
-              production-grade browser extensions and server-side tools that
-              retrieve Continuity of Care Documents (CCDs) and FHIR Bundles
-              directly from major EMRs like Epic, Cerner, and Athenahealth using
-              SMART on FHIR and OAuth2 flows. My expertise lies in simplifying
-              complex clinical data exchange—minimizing friction, eliminating
-              portal dependencies, and enabling seamless, secure access to
-              critical patient data. Whether you need a white-labeled solution
-              or a customization partner, I can help you rapidly deploy and
-              scale a CCD retrieval workflow aligned with HIPAA and ONC
-              requirements..
+              production-grade browser extensions and tools that
+              retrieve Medical documents (prescriptions) and FHIR Bundles
+              directly from major EMRs like Epic using
+              SMART on FHIR and OAuth2 flows. 
             </p>
             <div className="flex-chips">
               <span className="chip-title">Tech stack:</span>

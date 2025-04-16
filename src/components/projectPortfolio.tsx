@@ -119,7 +119,7 @@ function ProjectPortfolio() {
 
     return(
         <div className="portfolio-container" id="portfolio">
-            <h1>Professional Projects</h1>
+            <h1>Enterprise Projects</h1>
             <div className="portfolio-grid">
                 {projects.map((project, index) => (
                     <div className="portfolio-item" key={index}>
