@@ -1,8 +1,8 @@
 {
-  "name": "react-portfolio-template",
+  "name": "project-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mayankbytes.github.io/react-portfolio-template",
+  "homepage": "https://mayankbytes.github.io/project-portfolio",
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
